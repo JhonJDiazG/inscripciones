@@ -1,2 +1,2 @@
 # inscripciones
-Examen Laravel Alcaldia
+Exámen Laravel Alcaldia
